@@ -33,4 +33,5 @@ Cookie Authentication using Microsoft Identity and Owin : The user credentials a
 Further Scope for Improvement:
 
 Authentication : Token Based Authentication/Authorization can be implemented in the Web API for better security. 
+Implement Logout Functionality
 
